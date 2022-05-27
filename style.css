@@ -153,7 +153,7 @@ body {
   background-size: cover;
 }
 
-/* .box6 {
+.box6 {
   border: 2px solid black;
   border-radius: 100px;
   width: 600px;
@@ -215,7 +215,7 @@ body {
 .box1 p {
   text-align: center;
   margin: auto;
-} */
+}
 /* LATIHAN 6 PARADOX BOX END */
 
 @media (min-width: 600px) {
